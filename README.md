@@ -1,4 +1,6 @@
 # Pin Visualization
-Growth Team Project (James Allen Brown)
+Growth Team Project 
+
 Built in Django
+
 Screenshot: ![Screenshot](http://i.imgur.com/fyz8uIs.jpg)
