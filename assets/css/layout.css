@@ -1,0 +1,48 @@
+.container {
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+#img-container {
+    max-width: 100%;
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+} 
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+}
+
+.responsive-image {
+    height: auto;
+    width: 320px;
+    overflow: hidden;
+}
+
+.responsive-image img {
+    height: auto;
+    width: 400px;
+}
+
+ul#image-scroll img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+
+@media screen and (min-width: 50em) {
+  a {
+    width: calc(25% - 6px);
+  }
+}
