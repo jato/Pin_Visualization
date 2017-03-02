@@ -1,3 +1,3 @@
 # Pin_Visualization
 
-Screenshot: ![Screenshot](http://pasteboard.co/Er32rKfLo.png)
+Screenshot: ![Screenshot](https://pasteboard.co/Er32rKfLo.png)
