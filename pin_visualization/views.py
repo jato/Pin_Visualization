@@ -93,4 +93,4 @@ def home(request):
     # print(len(img_links))
     
     # return render(request, 'pins/pin_view.html', {"urls": img_combined})
-    return render(request, 'pins/pin_view.html', combo3)
+    return render(request, 'pins/pin_view.html', {"combo3": combo3 })
